@@ -1,0 +1,20 @@
+name: metodos-numericos
+channels:
+  - conda-forge
+dependencies:
+  - python>3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - pyqt>=5.9
+  - vtk>=8
+  - jupyter
+  - ipywidgets
+  - ipyevents
+  - pyvista
+  - itkwidgets
+  - sympy
+  - mayavi
+  - pip
+  - pip:
+    - meshio
