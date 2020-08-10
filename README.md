@@ -4,7 +4,7 @@
 
 Este es un repositorio para el material del curso Métodos Numéricos para
 Ecuacines en Derivadas parciales. El programa del curso se encuentra
-[acá]./(programa.md). Una lista de referencias _comentada_ se encuentra
+[acá](./programa.md). Una lista de referencias _comentada_ se encuentra
 [acá](./referencias.md).
 
 ## Descargar el contenido
